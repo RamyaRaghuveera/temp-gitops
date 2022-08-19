@@ -1,4 +1,4 @@
 dependencies:
-- name: <app-chart-name>
-  version: <helm chart version>
-  repository: https://<helm-repository-location>
+- name: temp-graph-ts
+  version: 0.0.1
+  repository: https://artifactory-tools.apps.wkshp3-cluster.piqe.p1.openshiftapps.com/artifactory/generic-local/dev-rr
