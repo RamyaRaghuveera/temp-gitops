@@ -1,0 +1,4 @@
+dependencies:
+- name: temp-java-spr
+  version: 0.0.3
+  repository: https://artifactory-tools.apps.wkshp3-cluster.piqe.p1.openshiftapps.com/artifactory/generic-local/dev-rrb
